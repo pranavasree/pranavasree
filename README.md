@@ -1,4 +1,4 @@
-#  🌟 Welcome to My GitHub Profile!
+#  🌟 Welcome to My GitHub!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranava-sree-pottipati-422092172/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/pranavasree) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavareddy27@gmail.com) 
 
