@@ -4,7 +4,7 @@
 
 
 ## 👤 About Me
-Hey👋! I'm Pranava Sree Pottipati<br><br>🔭  Currently pursuing a Master's in Computer Science at Kent State University <br>💼 3+ Experience in Temenos & TCS<br>🌱 Expanding my skills in MERN stack<br>👯 I’m looking to collaborate on Full Stack projects<br>💬 Ask me about React, Tailwind CSS, DSA
+Hey👋! I'm Pranava Sree Pottipati<br><br>🔭  Currently pursuing a Master's in Computer Science at Kent State University <br>💼 3+ Experience in Temenos & TCS<br>🌱 Expanding my skills in MERN stack<br>👯 I’m looking to collaborate on Full Stack projects<br>💬 Ask me about React, Next, Java, SpringBoot, Tailwind CSS, DSA
 
 ---
 
