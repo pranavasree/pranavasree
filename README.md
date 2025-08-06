@@ -32,8 +32,7 @@
 </p>
 
 ---
-
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; width: 100%; padding: 0 20px; box-sizing: border-box;">
   <img src="https://github-readme-stats.vercel.app/api?username=pranavasree&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 150px; object-fit: contain;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavasree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 150px; object-fit: contain;" />
 </div>
