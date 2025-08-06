@@ -27,22 +27,24 @@
 
 
 ---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql" />
 </p>
 
 ---
+
 <div style="display: flex; justify-content: center; align-items: center; gap: 90px; flex-wrap: wrap; width: 100%; padding: 0 80px; box-sizing: border-box;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavasree&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 150px; object-fit: contain;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pranavasree&theme=dark&hide_border=false" alt="Streak Stats" style="height: 150px; object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavasree&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 150px; object-fit: contain;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pranavasree&theme=tokyonight&hide_border=false" alt="Streak Stats" style="height: 150px; object-fit: contain;" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavasree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 150px; object-fit: contain;" />
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavasree&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 150px; object-fit: contain;" />
 </div>
 
 ---
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 ---
 
