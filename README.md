@@ -52,8 +52,7 @@
 </p>
 ---
 
-<p align="center">
 > "Code is poetry; debug it with passion, and deploy it with pride!"
-</p>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranavasree)
