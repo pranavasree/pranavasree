@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql,spring,mysql,hibernate,redis" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,jira,mysql,spring,mysql,hibernate,redis,docker,kubernetes,githubactions,aws," />
 </p>
 
 ---
