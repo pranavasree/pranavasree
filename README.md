@@ -19,7 +19,7 @@
 ---
 
 
-🔭 Currently pursuing a Master's in Computer Science at Kent State University<br>
+🎓 Graduated from University of Central Florida (MS in CS)<br>
 💼 3+ Experience in Temenos & TCS<br>
 🌱 Expanding my skills in MERN stack<br>
 👯 I’m looking to collaborate on Full Stack projects<br>
@@ -29,18 +29,23 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql,spring" />
 </p>
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 90px; flex-wrap: wrap; width: 100%; padding: 0 80px; box-sizing: border-box;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavasree&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 150px; object-fit: contain;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pranavasree&theme=tokyonight&hide_border=false" alt="Streak Stats" style="height: 150px; object-fit: contain;" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavasree&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 150px; object-fit: contain;" />
-</div>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavasree&theme=github_dark" alt="Profile Details">
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranavasree&theme=github_dark" height="165" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranavasree&theme=github_dark&utcOffset=2" height="165" alt="Productive Time">
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavasree&theme=github_dark" height="165" alt="Repos per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranavasree&theme=github_dark" height="165" alt="Most Commit Language">
+</p>
+
 
 ---
 
