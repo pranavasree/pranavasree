@@ -16,7 +16,7 @@
 
 ---
 
-🎓 Master of Science in Computer Science from Kent State University (GPA: 4.0/4.0). 
+🎓 Master of Science in Computer Science from Kent State University (GPA: 4.0/4.0).
 💼 3.7 years of professional software engineering experience across Temenos and Tata Consultancy Services (TCS).  
 🚀 Actively seeking Full-Stack Developer and Software Development Engineer (SDE) roles.  
 🌱 Enhancing full-stack proficiency with advanced MERN ecosystem engineering.  
@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql,spring,mysql,mssql,springboot,springai" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql,spring,mysql,springboot,springai,hibernate,redis" />
 </p>
 
 ---
