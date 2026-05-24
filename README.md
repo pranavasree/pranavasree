@@ -34,24 +34,26 @@
 
 ---
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavasree&theme=github_dark" alt="Profile Details">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavasree&theme=github_dark" alt="Profile Details" width="400">
 </p>
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranavasree&theme=github_dark" height="165" alt="Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranavasree&theme=github_dark&utcOffset=-4" height="165" alt="Productive Time">
 </p>
-<p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavasree&theme=github_dark" height="165" alt="Repos per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranavasree&theme=github_dark" height="165" alt="Most Commit Language">
 </p>
 
 ---
-
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+</p>
 ---
 
+<p align="center">
 > "Code is poetry; debug it with passion, and deploy it with pride!"
+</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranavasree)
