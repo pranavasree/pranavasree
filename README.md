@@ -16,11 +16,11 @@
 
 ---
 
-[cite_start]🎓 **Education**: Master of Science in Computer Science from Kent State University (GPA: 4.0/4.0)[cite: 74, 75].  
-[cite_start]💼 **Experience**: 3.7 years of professional software engineering experience across Temenos and Tata Consultancy Services (TCS)[cite: 4, 10, 34, 57].  
-🚀 **Current Focus**: Actively seeking Full-Stack Developer and Software Development Engineer (SDE) roles.  
-🌱 **Skills Expansion**: Enhancing full-stack proficiency with advanced MERN ecosystem engineering.  
-[cite_start]💬 **Ask me about**: React, Next.js, Java, Spring Boot, Tailwind CSS, System Design, and Data Structures & Algorithms[cite: 23, 36, 47, 65].  
+🎓 Master of Science in Computer Science from Kent State University (GPA: 4.0/4.0). 
+💼 3.7 years of professional software engineering experience across Temenos and Tata Consultancy Services (TCS).  
+🚀 Actively seeking Full-Stack Developer and Software Development Engineer (SDE) roles.  
+🌱 Enhancing full-stack proficiency with advanced MERN ecosystem engineering.  
+💬 Ask me about: React, Next.js, Java, Spring Boot, Tailwind CSS, System Design, and Data Structures & Algorithms.  
 
 ---
 
