@@ -47,9 +47,13 @@
 </p>
 
 ---
+
+
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
+
+
 ---
 
 > "Code is poetry; debug it with passion, and deploy it with pride!"
