@@ -19,7 +19,7 @@
 ---
 
 
-🎓 Graduated from University of Central Florida (MS in CS)<br>
+🎓 Graduated from Kent State University (MS in CS)<br>
 💼 3+ Experience in Temenos & TCS<br>
 🌱 Expanding my skills in MERN stack<br>
 👯 I’m looking to collaborate on Full Stack projects<br>
