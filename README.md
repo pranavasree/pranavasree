@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql,spring" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql,spring,mysql,mssql,springboot,springai" />
 </p>
 
 ---
@@ -53,11 +53,10 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-
-<img src="https://github-contributor-stats.vercel.app/api?username=pranavasree&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
----
 
 
 > "Code is poetry; debug it with passion, and deploy it with pride!"
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranavasree)
