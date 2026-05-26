@@ -18,7 +18,7 @@
 
 🎓 Master of Science in Computer Science from Kent State University (GPA: 4.0/4.0).<br>
 
-💼 3.7 years of professional software engineering experience across Temenos and Tata Consultancy Services (TCS).  
+💼 4 years of professional software engineering experience across Temenos and Tata Consultancy Services (TCS).  
 
 🚀 Actively seeking Full-Stack Developer and Software Development Engineer (SDE) roles.  
 
@@ -59,4 +59,4 @@
 > "Code is poetry; debug it with passion, and deploy it with pride!"
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranavasree)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranavasree/pranavasree)
