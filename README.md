@@ -26,6 +26,9 @@
 
 💬 Ask me about: React, Next.js, Java, Spring Boot, Tailwind CSS, System Design, and Data Structures & Algorithms.  
 
+
+> "Code is poetry; debug it with passion, and deploy it with pride!"
+
 ---
 
 <p align="center">
@@ -56,7 +59,6 @@
 
 ---
 
-> "Code is poetry; debug it with passion, and deploy it with pride!"
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranavasree/pranavasree)
