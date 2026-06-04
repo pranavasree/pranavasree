@@ -51,14 +51,10 @@
 
 ---
 
-
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-
 ---
-
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranavasree/pranavasree)
