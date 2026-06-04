@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql,spring,mysql,hibernate,redis,docker,kubernetes,githubactions,aws,rabbitmq,redux,kafka,stripe,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql,spring,mysql,hibernate,redis,docker,kubernetes,githubactions,aws,rabbitmq,redux,kafka,grafana,prometheus" />
 </p>
 
 ---
