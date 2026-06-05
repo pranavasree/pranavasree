@@ -15,9 +15,9 @@
 </div>
 
 ---
-<p align="center">
+
 I am a Software Development Engineer with 4 years of professional experience specializing in secure, high-performance full-stack applications, with a strong foundation in fintech and banking architectures from my time at Temenos, where I focused on backend engineering, database optimization, and responsive user interfaces. I recently graduated with my Master’s in Computer Science from Kent State University with a 4.0/4.0 GPA, where I focused on advanced software design and emerging technologies, and I am actively seeking Full-Stack Developer and Software Development Engineer roles where I can leverage my experience to design scalable, production-grade applications.
-</p>
+
 
 > "Code is poetry; debug it with passion, and deploy it with pride!"
 
