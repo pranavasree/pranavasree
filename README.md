@@ -16,15 +16,9 @@
 
 ---
 
-🎓 Master of Science in Computer Science from Kent State University (GPA: 4.0/4.0).<br>
+I am a Software Development Engineer with 4 years of professional experience specializing in building secure, high-performance full-stack applications. With a strong foundation in fintech and banking architectures from my time at Temenos, I excel at backend engineering, database optimization, and crafting responsive user interfaces.  
 
-💼 4 years of professional software engineering experience across Temenos and Tata Consultancy Services (TCS).  
-
-🚀 Actively seeking Full-Stack Developer and Software Development Engineer (SDE) roles.  
-
-🌱 Enhancing full-stack proficiency with advanced MERN ecosystem engineering.  
-
-💬 Ask me about: React, Next.js, Java, Spring Boot, Tailwind CSS, System Design, and Data Structures & Algorithms.  
+I recently graduated with my Master’s in Computer Science from Kent State University (GPA: 4.0/4.0), where I focused on advanced software design and emerging technologies. I am actively looking for Full-Stack Developer and Software Development Engineer (SDE) roles where I can leverage my experience to design scalable, production-grade applications.
 
 
 > "Code is poetry; debug it with passion, and deploy it with pride!"
