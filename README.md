@@ -24,7 +24,7 @@ I am a Software Development Engineer with 4 years of professional experience spe
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql,spring,mysql,hibernate,redis,docker,kubernetes,githubactions,aws,rabbitmq,redux,kafka,grafana,prometheus,opentelemetry" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,next,nodejs,express,mongodb,postgres,tailwind,figma,git,mysql,spring,mysql,hibernate,redis,docker,kubernetes,githubactions,aws,rabbitmq,redux,kafka,grafana,prometheus" />
 </p>
 
 ---
